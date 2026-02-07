@@ -1,4 +1,6 @@
-![logo](favicon.ico)
+<p align="center">
+  <img src="favicon.ico" width="80" />
+</p>
 
 # XAPK to APK Converter (Script)
 
