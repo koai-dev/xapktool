@@ -1,3 +1,5 @@
+![logo](assets/favicon.ico)
+
 # XAPK to APK Converter (Script)
 
 A simple bash script to convert `.xapk` (and `.apkm`, `.apks`) files into a standard, single `.apk` file that can be installed on any Android device.
