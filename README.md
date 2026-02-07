@@ -1,4 +1,4 @@
-![logo](assets/favicon.ico)
+![logo](favicon.ico)
 
 # XAPK to APK Converter (Script)
 
